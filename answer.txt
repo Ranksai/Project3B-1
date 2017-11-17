@@ -96,7 +96,7 @@ CONFIG_DEBUG_MODE=n
 CONFIG_CONTROLLER_HOST=10.111.3.102
 
 # List the servers on which to install the Compute service.
-CONFIG_COMPUTE_HOSTS=10.111.3.102
+CONFIG_COMPUTE_HOSTS=10.111.3.103,10.111.3.104,10.111.3.105,10.111.3.106,10.111.3.107,
 
 # List of servers on which to install the network service such as
 # Compute networking (nova network) or OpenStack Networking (neutron).
